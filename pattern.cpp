@@ -111,3 +111,11 @@ int main()
     cout<<"\n";
     }
 }
+
+
+
+
+
+
+
+//triangle
